@@ -1,1 +1,1 @@
-"# school_github" 
+# school_github
